@@ -1,0 +1,12 @@
+{
+  "name": "posmertie-rinny",
+  "version": "1.0.0",
+  "description": "Личный литературный архив «Посмертие Ринны»",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
